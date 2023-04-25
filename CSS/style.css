@@ -1,0 +1,55 @@
+.title {
+    text-align: center;
+    font-family: Cerebri Sans, Helvetica, Arial, sans-serif;
+  }
+  h1, h2 {
+    font-weight: 900;
+    font-size: 34px;
+    margin: 0;
+  }
+  .title h1 {
+    color: #272044;
+    margin-top: 125px;
+    margin-bottom: 0;
+  }
+  .title h2 {
+    color: #8064e9;
+  }
+  #information {
+    text-align: center;
+    font-family: "Source Code Pro", monospace;
+    font-size: 18px;
+    word-spacing: 7px;
+    margin-top: 40px;
+  }
+  section p {
+    margin: 0;
+    margin-bottom: 8px;
+  }
+  p .spots {
+    font-weight: bold;
+    margin-bottom: 35px;
+  }
+  #join {
+    display: block;
+    margin: 60px auto;
+    background-color: #8064e9;
+    color: #fff;
+    padding: 18px 24px;
+    border-radius: 25px;
+    font-size: 17px;
+    border: #fff;
+  }
+  #join:hover {
+    border: 1px solid;
+    border-color: #8064e9;
+    cursor: pointer;
+    background: #5e41a7;
+  }
+  #woman_coding {
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+    height: auto;
+    
+  }
